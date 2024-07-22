@@ -8,7 +8,8 @@
 
     */
 
+    const str1= "You have received this messaged because you have chosen to open an important vault. Here is the Secret Combination.";
     const num1= 3+2+4+1; //Combo 1//
     const num2= 8*5; //Combo 2//
     const num3= (80/2)-1; //Combo 3//
-    alert(num1+ '-' + num2 + '-' + num3);
+    alert(str1 + num1+ '-' + num2 + '-' + num3);
